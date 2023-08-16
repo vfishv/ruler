@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ruler.iml" filepath="$PROJECT_DIR$/Ruler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ruler.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ruler.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ruler.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ruler.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ruler.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ruler.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ruler.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ruler.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ruler.Ruler.iml" filepath="$PROJECT_DIR$/.idea/modules/ruler.Ruler.iml" />
     </modules>
   </component>
 </project>
